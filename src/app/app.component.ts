@@ -9,7 +9,7 @@ import { PersonasService } from './persona.service';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent implements OnInit {
-  titulo = 'Listado de Personas';
+  titulo = 'List of People';
   personas: Persona[] = [];
 
   constructor(private loggingService:LoggingService,
