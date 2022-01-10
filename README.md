@@ -1,6 +1,7 @@
 # ListadoPersonas
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.1.2.
+![Website look](/src/assets/readme.png)
 
 ## Development server
 
